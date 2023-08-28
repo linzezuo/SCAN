@@ -1,5 +1,5 @@
 # SCAN
-## Codes for paper "Spatial and Channel Aggregation Network for lightweight Remote-Sensing Image Super-Resolution".
+## Codes for paper "Spatial and Channel Aggregation Network for lightweight Image Super-Resolution".
 ## Environment
 PyTorch >= 1.8
 BasicSR >= 1.3.5
